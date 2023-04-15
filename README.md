@@ -1,6 +1,6 @@
 # AEMET OPEN DATA DOWNLOADER (V1.0)
 
-Plugin de QGIS para la descarga por provincias de los datos meteorologicos de las ultimas 24h, diarios, mensuales y normales en qgis de los Open Data de AEMET.
+Plugin de QGIS para la descarga por provincias de los datos meteorologicos de las ultimas 24h, diarios, mensuales y normales de los Open Data de AEMET.
 
 La información que recoge y utiliza este plugin es propiedad de la Agencia Estatal de Meteorología.
 
