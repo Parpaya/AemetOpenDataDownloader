@@ -6,7 +6,11 @@ La información que recoge y utiliza este plugin es propiedad de la Agencia Esta
 
 AEMET OpenData es un API REST (Application Programming Interface. Representational State Transfer) a través del cual se pueden descargar gratuitamente los datos explicitados en el Anexo II de la resolución de 30 de diciembre de 2015 de AEMET, por la que se establecen los precios públicos que han de regir la prestación de servicios meteorológicos y climatológicos. Esta resolución ha sido publicada en el BOE nº 4 de 5 de enero de 2016. (<a href='https://opendata.aemet.es/centrodedescargas/inicio'>https://opendata.aemet.es/centrodedescargas/inicio</a>)
 
-Para poder acceder a AEMET OpenData, es necesario solicitar una API Key. Una API Key es un identificador, mediante el cual se contabilizan e imputan los accesos que un usuario realiza al API.(<a href='https://opendata.aemet.es/centrodedescargas/altaUsuario?'>https://opendata.aemet.es/centrodedescargas/altaUsuario?</a>)
+Para poder acceder a AEMET OpenData, es necesario solicitar una API Key. Una API Key es un identificador, mediante el cual se contabilizan e imputan los accesos que un usuario realiza al API. 
+
+# APY KEY
+
+Obtén tu clave de API en la siguiente URL: (<a href='https://opendata.aemet.es/centrodedescargas/altaUsuario?'>https://opendata.aemet.es/centrodedescargas/altaUsuario?</a>)
 
 ## Instalar plugin
 
