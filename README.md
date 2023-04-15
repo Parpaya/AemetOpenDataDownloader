@@ -1,6 +1,8 @@
 # AEMET OPEN DATA DOWNLOADER (V1.0)
 
-Plugin de QGIS para la descarga por provincias de los datos meteorologicos de las ultimas 24h, diarios, mensuales y normales en qgis de los Open Data de AEMET. 
+Plugin de QGIS para la descarga por provincias de los datos meteorologicos de las ultimas 24h, diarios, mensuales y normales en qgis de los Open Data de AEMET.
+
+La información que recoge y utiliza este plugin es propiedad de la Agencia Estatal de Meteorología.
 
 AEMET OpenData es un API REST (Application Programming Interface. Representational State Transfer) a través del cual se pueden descargar gratuitamente los datos explicitados en el Anexo II de la resolución de 30 de diciembre de 2015 de AEMET, por la que se establecen los precios públicos que han de regir la prestación de servicios meteorológicos y climatológicos. Esta resolución ha sido publicada en el BOE nº 4 de 5 de enero de 2016. (<a href='https://opendata.aemet.es/centrodedescargas/inicio'>https://opendata.aemet.es/centrodedescargas/inicio</a>)
 
