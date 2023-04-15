@@ -60,7 +60,7 @@ Ejemplo de uso del Plugin:
 
 <img src="help/Consola_ejemplo.png" width="50%">
 
-<img src="help/Consola_Qgis.png" width="30%">
+<img src="help/Escritorio_Qgis.png" width="30%">
 
 ## Changelog
 - 25.04.2023 V1.0: Primera versión
