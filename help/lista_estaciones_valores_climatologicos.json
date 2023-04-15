@@ -1,0 +1,2621 @@
+[
+  {
+    "Nombre": "ARENYS DE MAR",
+    "Indicativo": "0252D",
+    "Provincia": "BARCELONA",
+    "Longitud": "02 32 24E",
+    "Latitud": "41 35 15N",
+    "x": "2.540",
+    "y": "41.588"
+  },
+  {
+    "Nombre": "BARCELONA AEROPUERTO",
+    "Indicativo": "76",
+    "Provincia": "BARCELONA",
+    "Longitud": "02 04 12E",
+    "Latitud": "41 17 34N",
+    "x": "2.070",
+    "y": "41.293"
+  },
+  {
+    "Nombre": "BARCELONA, FABRA",
+    "Indicativo": "0200E",
+    "Provincia": "BARCELONA",
+    "Longitud": "02 07 27E",
+    "Latitud": "41 25 06N",
+    "x": "2.124",
+    "y": "41.418"
+  },
+  {
+    "Nombre": "BARCELONA",
+    "Indicativo": "0201D",
+    "Provincia": "BARCELONA",
+    "Longitud": "02 12 00E",
+    "Latitud": "41 23 26N",
+    "x": "2.200",
+    "y": "41.391"
+  },
+  {
+    "Nombre": "MANRESA",
+    "Indicativo": "0149X",
+    "Provincia": "BARCELONA",
+    "Longitud": "01 50 25E",
+    "Latitud": "41 43 12N",
+    "x": "1.840",
+    "y": "41.720"
+  },
+  {
+    "Nombre": "SABADELL AEROPUERTO",
+    "Indicativo": "0229I",
+    "Provincia": "BARCELONA",
+    "Longitud": "02 06 11E",
+    "Latitud": "41 31 25N",
+    "x": "2.103",
+    "y": "41.524"
+  },
+  {
+    "Nombre": "SANTA SUSANNA",
+    "Indicativo": "0255B",
+    "Provincia": "BARCELONA",
+    "Longitud": "02 41 49E",
+    "Latitud": "41 39 03N",
+    "x": "2.697",
+    "y": "41.651"
+  },
+  {
+    "Nombre": "GIRONA AEROPUERTO",
+    "Indicativo": "367",
+    "Provincia": "GIRONA",
+    "Longitud": "02 45 48E",
+    "Latitud": "41 54 42N",
+    "x": "2.763",
+    "y": "41.912"
+  },
+  {
+    "Nombre": "GIRONA, ANTIC INSTITUT",
+    "Indicativo": "0370B",
+    "Provincia": "GIRONA",
+    "Longitud": "02 49 31E",
+    "Latitud": "41 58 48N",
+    "x": "2.825",
+    "y": "41.980"
+  },
+  {
+    "Nombre": "PORQUERES",
+    "Indicativo": "0372C",
+    "Provincia": "GIRONA",
+    "Longitud": "02 45 49E",
+    "Latitud": "42 06 16N",
+    "x": "2.764",
+    "y": "42.104"
+  },
+  {
+    "Nombre": "RIPOLL",
+    "Indicativo": "0324A",
+    "Provincia": "GIRONA",
+    "Longitud": "02 11 46E",
+    "Latitud": "42 11 29N",
+    "x": "2.196",
+    "y": "42.191"
+  },
+  {
+    "Nombre": "REUS AEROPUERTO",
+    "Indicativo": "0016A",
+    "Provincia": "TARRAGONA",
+    "Longitud": "01 09 49E",
+    "Latitud": "41 08 42N",
+    "x": "1.164",
+    "y": "41.145"
+  },
+  {
+    "Nombre": "VANDELLÒS",
+    "Indicativo": "0002I",
+    "Provincia": "TARRAGONA",
+    "Longitud": "00 52 17E",
+    "Latitud": "40 57 29N",
+    "x": "0.871",
+    "y": "40.958"
+  },
+  {
+    "Nombre": "A CORUÑA AEROPUERTO",
+    "Indicativo": "1387E",
+    "Provincia": "A CORUÑA",
+    "Longitud": "08 22 19W",
+    "Latitud": "43 18 25N",
+    "x": "-8.372",
+    "y": "43.307"
+  },
+  {
+    "Nombre": "A CORUÑA",
+    "Indicativo": "1387",
+    "Provincia": "A CORUÑA",
+    "Longitud": "08 25 17W",
+    "Latitud": "43 21 57N",
+    "x": "-8.421",
+    "y": "43.366"
+  },
+  {
+    "Nombre": "CABO VILÁN",
+    "Indicativo": "1393",
+    "Provincia": "A CORUÑA",
+    "Longitud": "09 12 39W",
+    "Latitud": "43 09 38N",
+    "x": "-9.211",
+    "y": "43.161"
+  },
+  {
+    "Nombre": "ESTACA DE BARES",
+    "Indicativo": "1351",
+    "Provincia": "A CORUÑA",
+    "Longitud": "07 41 06W",
+    "Latitud": "43 47 10N",
+    "x": "-7.685",
+    "y": "43.786"
+  },
+  {
+    "Nombre": "FISTERRA",
+    "Indicativo": "1400",
+    "Provincia": "A CORUÑA",
+    "Longitud": "09 17 29W",
+    "Latitud": "42 55 29N",
+    "x": "-9.291",
+    "y": "42.925"
+  },
+  {
+    "Nombre": "MONTE IROITE",
+    "Indicativo": "1437O",
+    "Provincia": "A CORUÑA",
+    "Longitud": "08 55 24W",
+    "Latitud": "42 43 14N",
+    "x": "-8.923",
+    "y": "42.721"
+  },
+  {
+    "Nombre": "PADRÓN",
+    "Indicativo": "1473A",
+    "Provincia": "A CORUÑA",
+    "Longitud": "08 37 38W",
+    "Latitud": "42 44 18N",
+    "x": "-8.627",
+    "y": "42.738"
+  },
+  {
+    "Nombre": "SANTIAGO DE COMPOSTELA AEROPUERTO",
+    "Indicativo": "1428",
+    "Provincia": "A CORUÑA",
+    "Longitud": "08 24 38W",
+    "Latitud": "42 53 17N",
+    "x": "-8.411",
+    "y": "42.888"
+  },
+  {
+    "Nombre": "SANTIAGO DE COMPOSTELA",
+    "Indicativo": "1475X",
+    "Provincia": "A CORUÑA",
+    "Longitud": "08 33 21W",
+    "Latitud": "42 52 34N",
+    "x": "-8.556",
+    "y": "42.876"
+  },
+  {
+    "Nombre": "ASTURIAS AEROPUERTO",
+    "Indicativo": "1212E",
+    "Provincia": "ASTURIAS",
+    "Longitud": "06 02 39W",
+    "Latitud": "43 34 01N",
+    "x": "-6.044",
+    "y": "43.567"
+  },
+  {
+    "Nombre": "CABO BUSTO",
+    "Indicativo": "1283U",
+    "Provincia": "ASTURIAS",
+    "Longitud": "06 28 12W",
+    "Latitud": "43 34 09N",
+    "x": "-6.470",
+    "y": "43.569"
+  },
+  {
+    "Nombre": "CABO PEÑAS",
+    "Indicativo": "1210X",
+    "Provincia": "ASTURIAS",
+    "Longitud": "05 50 55W",
+    "Latitud": "43 39 21N",
+    "x": "-5.849",
+    "y": "43.656"
+  },
+  {
+    "Nombre": "CASTROPOL",
+    "Indicativo": "1331A",
+    "Provincia": "ASTURIAS",
+    "Longitud": "07 01 53W",
+    "Latitud": "43 31 29N",
+    "x": "-7.031",
+    "y": "43.525"
+  },
+  {
+    "Nombre": "GIJÓN, CAMPUS",
+    "Indicativo": "1207U",
+    "Provincia": "ASTURIAS",
+    "Longitud": "05 37 16W",
+    "Latitud": "43 31 23N",
+    "x": "-5.621",
+    "y": "43.523"
+  },
+  {
+    "Nombre": "GIJÓN. LA MERCED",
+    "Indicativo": "1208A",
+    "Provincia": "ASTURIAS",
+    "Longitud": "05 39 43W",
+    "Latitud": "43 32 30N",
+    "x": "-5.662",
+    "y": "43.542"
+  },
+  {
+    "Nombre": "GIJÓN, PUERTO",
+    "Indicativo": "1208H",
+    "Provincia": "ASTURIAS",
+    "Longitud": "05 42 03W",
+    "Latitud": "43 33 36N",
+    "x": "-5.701",
+    "y": "43.560"
+  },
+  {
+    "Nombre": "GIJÓN",
+    "Indicativo": "1208",
+    "Provincia": "ASTURIAS",
+    "Longitud": "05 38 15W",
+    "Latitud": "43 32 20N",
+    "x": "-5.638",
+    "y": "43.539"
+  },
+  {
+    "Nombre": "LLANES",
+    "Indicativo": "1183X",
+    "Provincia": "ASTURIAS",
+    "Longitud": "04 44 53W",
+    "Latitud": "43 25 13N",
+    "x": "-4.748",
+    "y": "43.420"
+  },
+  {
+    "Nombre": "OVIEDO",
+    "Indicativo": "1249I",
+    "Provincia": "ASTURIAS",
+    "Longitud": "05 52 27W",
+    "Latitud": "43 21 12N",
+    "x": "-5.874",
+    "y": "43.353"
+  },
+  {
+    "Nombre": "OVIEDO",
+    "Indicativo": "1249X",
+    "Provincia": "ASTURIAS",
+    "Longitud": "05 52 27W",
+    "Latitud": "43 21 12N",
+    "x": "-5.874",
+    "y": "43.353"
+  },
+  {
+    "Nombre": "PAJARES-VALGRANDE",
+    "Indicativo": "1221D",
+    "Provincia": "ASTURIAS",
+    "Longitud": "05 46 35W",
+    "Latitud": "42 58 43N",
+    "x": "-5.776",
+    "y": "42.979"
+  },
+  {
+    "Nombre": "PUERTO DE LEITARIEGOS",
+    "Indicativo": "1542",
+    "Provincia": "ASTURIAS",
+    "Longitud": "06 24 51W",
+    "Latitud": "42 59 39N",
+    "x": "-6.414",
+    "y": "42.994"
+  },
+  {
+    "Nombre": "BILBAO AEROPUERTO",
+    "Indicativo": "1082",
+    "Provincia": "BIZKAIA",
+    "Longitud": "02 54 23W",
+    "Latitud": "43 17 53N",
+    "x": "-2.906",
+    "y": "43.298"
+  },
+  {
+    "Nombre": "GÜEÑES",
+    "Indicativo": "1078I",
+    "Provincia": "BIZKAIA",
+    "Longitud": "03 06 17W",
+    "Latitud": "43 12 12N",
+    "x": "-3.105",
+    "y": "43.203"
+  },
+  {
+    "Nombre": "LEKEITIO",
+    "Indicativo": "1055B",
+    "Provincia": "BIZKAIA",
+    "Longitud": "02 30 37W",
+    "Latitud": "43 22 37N",
+    "x": "-2.510",
+    "y": "43.377"
+  },
+  {
+    "Nombre": "MACHICHACO",
+    "Indicativo": "1057B",
+    "Provincia": "BIZKAIA",
+    "Longitud": "02 45 10W",
+    "Latitud": "43 27 14N",
+    "x": "-2.753",
+    "y": "43.454"
+  },
+  {
+    "Nombre": "PUNTA GALEA",
+    "Indicativo": "1059X",
+    "Provincia": "BIZKAIA",
+    "Longitud": "03 01 18W",
+    "Latitud": "43 22 30N",
+    "x": "-3.022",
+    "y": "43.375"
+  },
+  {
+    "Nombre": "CASTRO URDIALES",
+    "Indicativo": "1083L",
+    "Provincia": "CANTABRIA",
+    "Longitud": "03 14 02W",
+    "Latitud": "43 23 41N",
+    "x": "-3.234",
+    "y": "43.395"
+  },
+  {
+    "Nombre": "SAN VICENTE DE LA BARQUERA",
+    "Indicativo": "1159",
+    "Provincia": "CANTABRIA",
+    "Longitud": "04 23 32W",
+    "Latitud": "43 23 36N",
+    "x": "-4.392",
+    "y": "43.393"
+  },
+  {
+    "Nombre": "SANTANDER AEROPUERTO",
+    "Indicativo": "1109",
+    "Provincia": "CANTABRIA",
+    "Longitud": "03 49 32W",
+    "Latitud": "43 25 26N",
+    "x": "-3.826",
+    "y": "43.424"
+  },
+  {
+    "Nombre": "SANTANDER, CIUDAD",
+    "Indicativo": "1110",
+    "Provincia": "CANTABRIA",
+    "Longitud": "03 49 08W",
+    "Latitud": "43 27 54N",
+    "x": "-3.819",
+    "y": "43.465"
+  },
+  {
+    "Nombre": "SANTANDER",
+    "Indicativo": "1111X",
+    "Provincia": "CANTABRIA",
+    "Longitud": "03 48 02W",
+    "Latitud": "43 29 28N",
+    "x": "-3.801",
+    "y": "43.491"
+  },
+  {
+    "Nombre": "SANTANDER",
+    "Indicativo": "1111",
+    "Provincia": "CANTABRIA",
+    "Longitud": "03 48 02W",
+    "Latitud": "43 29 28N",
+    "x": "-3.801",
+    "y": "43.491"
+  },
+  {
+    "Nombre": "DONOSTIA/SAN SEBASTIÁN, IGUELDO",
+    "Indicativo": "1024E",
+    "Provincia": "GIPUZKOA",
+    "Longitud": "02 02 28W",
+    "Latitud": "43 18 23N",
+    "x": "-2.041",
+    "y": "43.306"
+  },
+  {
+    "Nombre": "ELGOIBAR",
+    "Indicativo": "1050J",
+    "Provincia": "GIPUZKOA",
+    "Longitud": "02 24 48W",
+    "Latitud": "43 12 34N",
+    "x": "-2.413",
+    "y": "43.209"
+  },
+  {
+    "Nombre": "HONDARRIBIA, MALKARROA",
+    "Indicativo": "1014",
+    "Provincia": "GIPUZKOA",
+    "Longitud": "01 47 32W",
+    "Latitud": "43 21 25N",
+    "x": "-1.792",
+    "y": "43.357"
+  },
+  {
+    "Nombre": "SAN SEBASTIÁN AEROPUERTO",
+    "Indicativo": "1014A",
+    "Provincia": "GIPUZKOA",
+    "Longitud": "01 47 32W",
+    "Latitud": "43 21 25N",
+    "x": "-1.792",
+    "y": "43.357"
+  },
+  {
+    "Nombre": "ZUMAIA",
+    "Indicativo": "1041A",
+    "Provincia": "GIPUZKOA",
+    "Longitud": "02 15 04W",
+    "Latitud": "43 18 08N",
+    "x": "-2.251",
+    "y": "43.302"
+  },
+  {
+    "Nombre": "ZUMARRAGA",
+    "Indicativo": "1037Y",
+    "Provincia": "GIPUZKOA",
+    "Longitud": "02 19 03W",
+    "Latitud": "43 04 48N",
+    "x": "-2.318",
+    "y": "43.080"
+  },
+  {
+    "Nombre": "PONFERRADA",
+    "Indicativo": "1549",
+    "Provincia": "LEON",
+    "Longitud": "06 36 00W",
+    "Latitud": "42 33 50N",
+    "x": "-6.600",
+    "y": "42.564"
+  },
+  {
+    "Nombre": "LUGO AEROPUERTO",
+    "Indicativo": "1505",
+    "Provincia": "LUGO",
+    "Longitud": "07 27 27W",
+    "Latitud": "43 06 41N",
+    "x": "-7.458",
+    "y": "43.111"
+  },
+  {
+    "Nombre": "BAZTAN, IRURITA",
+    "Indicativo": "1002Y",
+    "Provincia": "NAVARRA",
+    "Longitud": "01 32 35W",
+    "Latitud": "43 08 09N",
+    "x": "-1.543",
+    "y": "43.136"
+  },
+  {
+    "Nombre": "A POBRA DE TRIVES",
+    "Indicativo": "1631E",
+    "Provincia": "OURENSE",
+    "Longitud": "07 16 57W",
+    "Latitud": "42 20 22N",
+    "x": "-7.283",
+    "y": "42.339"
+  },
+  {
+    "Nombre": "O CARBALLIÑO",
+    "Indicativo": "1700X",
+    "Provincia": "OURENSE",
+    "Longitud": "08 05 33W",
+    "Latitud": "42 25 17N",
+    "x": "-8.092",
+    "y": "42.421"
+  },
+  {
+    "Nombre": "OURENSE,INSTITUTO",
+    "Indicativo": "1690B",
+    "Provincia": "OURENSE",
+    "Longitud": "07 51 52W",
+    "Latitud": "42 19 56N",
+    "x": "-7.864",
+    "y": "42.332"
+  },
+  {
+    "Nombre": "OURENSE",
+    "Indicativo": "1690A",
+    "Provincia": "OURENSE",
+    "Longitud": "07 51 35W",
+    "Latitud": "42 19 31N",
+    "x": "-7.860",
+    "y": "42.325"
+  },
+  {
+    "Nombre": "XINZO DE LIMIA",
+    "Indicativo": "1735X",
+    "Provincia": "OURENSE",
+    "Longitud": "07 44 01W",
+    "Latitud": "42 04 45N",
+    "x": "-7.734",
+    "y": "42.079"
+  },
+  {
+    "Nombre": "PONTEVEDRA, INSTITUTO",
+    "Indicativo": "1484",
+    "Provincia": "PONTEVEDRA",
+    "Longitud": "08 38 50W",
+    "Latitud": "42 25 50N",
+    "x": "-8.647",
+    "y": "42.431"
+  },
+  {
+    "Nombre": "PONTEVEDRA",
+    "Indicativo": "1484C",
+    "Provincia": "PONTEVEDRA",
+    "Longitud": "08 36 57W",
+    "Latitud": "42 26 18N",
+    "x": "-8.616",
+    "y": "42.438"
+  },
+  {
+    "Nombre": "VIGO AEROPUERTO",
+    "Indicativo": "1495",
+    "Provincia": "PONTEVEDRA",
+    "Longitud": "08 37 26W",
+    "Latitud": "42 14 19N",
+    "x": "-8.624",
+    "y": "42.239"
+  },
+  {
+    "Nombre": "ÁVILA, AYUNTAMIENTO",
+    "Indicativo": "2444C",
+    "Provincia": "AVILA",
+    "Longitud": "04 42 01W",
+    "Latitud": "40 39 24N",
+    "x": "-4.700",
+    "y": "40.657"
+  },
+  {
+    "Nombre": "ÁVILA",
+    "Indicativo": "2444",
+    "Provincia": "AVILA",
+    "Longitud": "04 40 48W",
+    "Latitud": "40 39 33N",
+    "x": "-4.680",
+    "y": "40.659"
+  },
+  {
+    "Nombre": "NAVARREDONDA DE GREDOS",
+    "Indicativo": "2811A",
+    "Provincia": "AVILA",
+    "Longitud": "05 08 35W",
+    "Latitud": "40 21 02N",
+    "x": "-5.143",
+    "y": "40.351"
+  },
+  {
+    "Nombre": "ARANDA DE DUERO",
+    "Indicativo": "2117D",
+    "Provincia": "BURGOS",
+    "Longitud": "03 44 34W",
+    "Latitud": "41 39 57N",
+    "x": "-3.743",
+    "y": "41.666"
+  },
+  {
+    "Nombre": "BURGOS AEROPUERTO",
+    "Indicativo": "2331",
+    "Provincia": "BURGOS",
+    "Longitud": "03 37 13W",
+    "Latitud": "42 21 25N",
+    "x": "-3.620",
+    "y": "42.357"
+  },
+  {
+    "Nombre": "PALACIOS DE LA SIERRA",
+    "Indicativo": "2298",
+    "Provincia": "BURGOS",
+    "Longitud": "03 07 54W",
+    "Latitud": "41 57 35N",
+    "x": "-3.132",
+    "y": "41.960"
+  },
+  {
+    "Nombre": "LAGUNAS DE SOMOZA",
+    "Indicativo": "2737E",
+    "Provincia": "LEON",
+    "Longitud": "06 11 48W",
+    "Latitud": "42 22 39N",
+    "x": "-6.197",
+    "y": "42.378"
+  },
+  {
+    "Nombre": "LEÓN AEROPUERTO",
+    "Indicativo": "2661B",
+    "Provincia": "LEON",
+    "Longitud": "05 38 37W",
+    "Latitud": "42 35 58N",
+    "x": "-5.644",
+    "y": "42.599"
+  },
+  {
+    "Nombre": "LEÓN, VIRGEN DEL CAMINO",
+    "Indicativo": "2661",
+    "Provincia": "LEON",
+    "Longitud": "05 39 04W",
+    "Latitud": "42 35 18N",
+    "x": "-5.651",
+    "y": "42.588"
+  },
+  {
+    "Nombre": "PUERTO DE SAN ISIDRO",
+    "Indicativo": "2630X",
+    "Provincia": "LEON",
+    "Longitud": "05 22 37W",
+    "Latitud": "43 03 44N",
+    "x": "-5.377",
+    "y": "43.062"
+  },
+  {
+    "Nombre": "PUERTO DE NAVACERRADA",
+    "Indicativo": "2462",
+    "Provincia": "MADRID",
+    "Longitud": "04 00 38W",
+    "Latitud": "40 47 35N",
+    "x": "-4.011",
+    "y": "40.793"
+  },
+  {
+    "Nombre": "AUTILLA DEL PINO",
+    "Indicativo": "2400E",
+    "Provincia": "PALENCIA",
+    "Longitud": "04 36 10W",
+    "Latitud": "41 59 44N",
+    "x": "-4.603",
+    "y": "41.996"
+  },
+  {
+    "Nombre": "CARRIÓN DE LOS CONDES",
+    "Indicativo": "2374X",
+    "Provincia": "PALENCIA",
+    "Longitud": "04 37 02W",
+    "Latitud": "42 21 03N",
+    "x": "-4.617",
+    "y": "42.351"
+  },
+  {
+    "Nombre": "CERVERA DE PISUERGA",
+    "Indicativo": "2235U",
+    "Provincia": "PALENCIA",
+    "Longitud": "04 31 12W",
+    "Latitud": "42 52 14N",
+    "x": "-4.520",
+    "y": "42.871"
+  },
+  {
+    "Nombre": "PALENCIA, OBSERVATORIO",
+    "Indicativo": "2401",
+    "Provincia": "PALENCIA",
+    "Longitud": "04 31 45W",
+    "Latitud": "42 00 18N",
+    "x": "-4.529",
+    "y": "42.005"
+  },
+  {
+    "Nombre": "LA COVATILLA, ESTACIÓN DE ESQUÍ",
+    "Indicativo": "2491C",
+    "Provincia": "SALAMANCA",
+    "Longitud": "05 41 24W",
+    "Latitud": "40 21 18N",
+    "x": "-5.690",
+    "y": "40.355"
+  },
+  {
+    "Nombre": "SAELICES EL CHICO",
+    "Indicativo": "2946X",
+    "Provincia": "SALAMANCA",
+    "Longitud": "06 36 00W",
+    "Latitud": "40 38 06N",
+    "x": "-6.600",
+    "y": "40.635"
+  },
+  {
+    "Nombre": "SALAMANCA AEROPUERTO",
+    "Indicativo": "2867",
+    "Provincia": "SALAMANCA",
+    "Longitud": "05 29 54W",
+    "Latitud": "40 57 34N",
+    "x": "-5.498",
+    "y": "40.959"
+  },
+  {
+    "Nombre": "SALAMANCA",
+    "Indicativo": "2870",
+    "Provincia": "SALAMANCA",
+    "Longitud": "05 39 44W",
+    "Latitud": "40 57 27N",
+    "x": "-5.662",
+    "y": "40.958"
+  },
+  {
+    "Nombre": "VITIGUDINO",
+    "Indicativo": "2916A",
+    "Provincia": "SALAMANCA",
+    "Longitud": "06 26 16W",
+    "Latitud": "41 00 41N",
+    "x": "-6.438",
+    "y": "41.011"
+  },
+  {
+    "Nombre": "LA PINILLA, ESTACIÓN DE ESQUÍ",
+    "Indicativo": "2150H",
+    "Provincia": "SEGOVIA",
+    "Longitud": "03 28 31W",
+    "Latitud": "41 11 31N",
+    "x": "-3.475",
+    "y": "41.192"
+  },
+  {
+    "Nombre": "SEGOVIA, INSTITUTO",
+    "Indicativo": "2465A",
+    "Provincia": "SEGOVIA",
+    "Longitud": "04 06 57W",
+    "Latitud": "40 56 48N",
+    "x": "-4.116",
+    "y": "40.947"
+  },
+  {
+    "Nombre": "SEGOVIA",
+    "Indicativo": "2465",
+    "Provincia": "SEGOVIA",
+    "Longitud": "04 07 35W",
+    "Latitud": "40 56 43N",
+    "x": "-4.126",
+    "y": "40.945"
+  },
+  {
+    "Nombre": "SORIA",
+    "Indicativo": "2030",
+    "Provincia": "SORIA",
+    "Longitud": "02 28 59W",
+    "Latitud": "41 46 30N",
+    "x": "-2.483",
+    "y": "41.775"
+  },
+  {
+    "Nombre": "OLMEDO",
+    "Indicativo": "2503X",
+    "Provincia": "VALLADOLID",
+    "Longitud": "04 41 13W",
+    "Latitud": "41 19 33N",
+    "x": "-4.687",
+    "y": "41.326"
+  },
+  {
+    "Nombre": "VALLADOLID AEROPUERTO",
+    "Indicativo": "2539",
+    "Provincia": "VALLADOLID",
+    "Longitud": "04 51 20W",
+    "Latitud": "41 42 43N",
+    "x": "-4.856",
+    "y": "41.712"
+  },
+  {
+    "Nombre": "VALLADOLID",
+    "Indicativo": "2422",
+    "Provincia": "VALLADOLID",
+    "Longitud": "04 45 16W",
+    "Latitud": "41 38 27N",
+    "x": "-4.754",
+    "y": "41.641"
+  },
+  {
+    "Nombre": "BENAVENTE",
+    "Indicativo": "2755X",
+    "Provincia": "ZAMORA",
+    "Longitud": "05 40 00W",
+    "Latitud": "42 00 39N",
+    "x": "-5.667",
+    "y": "42.011"
+  },
+  {
+    "Nombre": "VILLARDECIERVOS",
+    "Indicativo": "2775X",
+    "Provincia": "ZAMORA",
+    "Longitud": "06 16 47W",
+    "Latitud": "41 56 29N",
+    "x": "-6.280",
+    "y": "41.941"
+  },
+  {
+    "Nombre": "ZAMORA",
+    "Indicativo": "2614",
+    "Provincia": "ZAMORA",
+    "Longitud": "05 44 07W",
+    "Latitud": "41 30 56N",
+    "x": "-5.735",
+    "y": "41.516"
+  },
+  {
+    "Nombre": "SOTILLO DE LA ADRADA",
+    "Indicativo": "3391",
+    "Provincia": "AVILA",
+    "Longitud": "04 35 27W",
+    "Latitud": "40 17 19N",
+    "x": "-4.591",
+    "y": "40.289"
+  },
+  {
+    "Nombre": "CÁCERES, CIUDAD",
+    "Indicativo": "3469",
+    "Provincia": "CACERES",
+    "Longitud": "06 22 35W",
+    "Latitud": "39 28 33N",
+    "x": "-6.376",
+    "y": "39.476"
+  },
+  {
+    "Nombre": "CÁCERES",
+    "Indicativo": "3469A",
+    "Provincia": "CACERES",
+    "Longitud": "06 20 20W",
+    "Latitud": "39 28 17N",
+    "x": "-6.339",
+    "y": "39.471"
+  },
+  {
+    "Nombre": "CORIA",
+    "Indicativo": "3526X",
+    "Provincia": "CACERES",
+    "Longitud": "06 33 27W",
+    "Latitud": "40 00 13N",
+    "x": "-6.558",
+    "y": "40.004"
+  },
+  {
+    "Nombre": "NAVALMORAL DE LA MATA",
+    "Indicativo": "3434X",
+    "Provincia": "CACERES",
+    "Longitud": "05 34 57W",
+    "Latitud": "39 56 45N",
+    "x": "-5.583",
+    "y": "39.946"
+  },
+  {
+    "Nombre": "PLASENCIA",
+    "Indicativo": "3519X",
+    "Provincia": "CACERES",
+    "Longitud": "06 05 09W",
+    "Latitud": "40 02 35N",
+    "x": "-6.086",
+    "y": "40.043"
+  },
+  {
+    "Nombre": "TRUJILLO",
+    "Indicativo": "3463X",
+    "Provincia": "CACERES",
+    "Longitud": "05 51 15W",
+    "Latitud": "39 28 57N",
+    "x": "-5.854",
+    "y": "39.483"
+  },
+  {
+    "Nombre": "VALENCIA DE ALCÁNTARA",
+    "Indicativo": "3576X",
+    "Provincia": "CACERES",
+    "Longitud": "07 13 52W",
+    "Latitud": "39 24 53N",
+    "x": "-7.231",
+    "y": "39.415"
+  },
+  {
+    "Nombre": "CAÑIZARES",
+    "Indicativo": "3044X",
+    "Provincia": "CUENCA",
+    "Longitud": "02 09 00W",
+    "Latitud": "40 31 49N",
+    "x": "-2.150",
+    "y": "40.530"
+  },
+  {
+    "Nombre": "TARANCÓN",
+    "Indicativo": "3094B",
+    "Provincia": "CUENCA",
+    "Longitud": "03 01 17W",
+    "Latitud": "40 00 41N",
+    "x": "-3.021",
+    "y": "40.011"
+  },
+  {
+    "Nombre": "GUADALAJARA, EL SERRANILLO",
+    "Indicativo": "3168C",
+    "Provincia": "GUADALAJARA",
+    "Longitud": "03 10 24W",
+    "Latitud": "40 39 33N",
+    "x": "-3.173",
+    "y": "40.659"
+  },
+  {
+    "Nombre": "GUADALAJARA, INSTITUTO",
+    "Indicativo": "3168A",
+    "Provincia": "GUADALAJARA",
+    "Longitud": "03 10 00W",
+    "Latitud": "40 38 05N",
+    "x": "-3.167",
+    "y": "40.635"
+  },
+  {
+    "Nombre": "GUADALAJARA",
+    "Indicativo": "3168D",
+    "Provincia": "GUADALAJARA",
+    "Longitud": "03 09 00W",
+    "Latitud": "40 37 49N",
+    "x": "-3.150",
+    "y": "40.630"
+  },
+  {
+    "Nombre": "MOLINA DE ARAGÓN",
+    "Indicativo": "3013",
+    "Provincia": "GUADALAJARA",
+    "Longitud": "01 52 44W",
+    "Latitud": "40 50 30N",
+    "x": "-1.879",
+    "y": "40.842"
+  },
+  {
+    "Nombre": "SIGÜENZA",
+    "Indicativo": "3130C",
+    "Provincia": "GUADALAJARA",
+    "Longitud": "02 37 05W",
+    "Latitud": "41 05 11N",
+    "x": "-2.618",
+    "y": "41.086"
+  },
+  {
+    "Nombre": "ARANJUEZ",
+    "Indicativo": "3100B",
+    "Provincia": "MADRID",
+    "Longitud": "03 32 46W",
+    "Latitud": "40 04 02N",
+    "x": "-3.546",
+    "y": "40.067"
+  },
+  {
+    "Nombre": "BUITRAGO DEL LOZOYA",
+    "Indicativo": "3110C",
+    "Provincia": "MADRID",
+    "Longitud": "03 36 49W",
+    "Latitud": "41 00 25N",
+    "x": "-3.614",
+    "y": "41.007"
+  },
+  {
+    "Nombre": "COLMENAR VIEJO",
+    "Indicativo": "3191E",
+    "Provincia": "MADRID",
+    "Longitud": "03 45 54W",
+    "Latitud": "40 41 46N",
+    "x": "-3.765",
+    "y": "40.696"
+  },
+  {
+    "Nombre": "GETAFE",
+    "Indicativo": "3200",
+    "Provincia": "MADRID",
+    "Longitud": "03 43 20W",
+    "Latitud": "40 17 58N",
+    "x": "-3.722",
+    "y": "40.299"
+  },
+  {
+    "Nombre": "MADRID AEROPUERTO",
+    "Indicativo": "3129",
+    "Provincia": "MADRID",
+    "Longitud": "03 33 20W",
+    "Latitud": "40 28 00N",
+    "x": "-3.556",
+    "y": "40.467"
+  },
+  {
+    "Nombre": "MADRID, CIUDAD UNIVERSITARIA",
+    "Indicativo": "3194U",
+    "Provincia": "MADRID",
+    "Longitud": "03 43 27W",
+    "Latitud": "40 27 06N",
+    "x": "-3.724",
+    "y": "40.452"
+  },
+  {
+    "Nombre": "MADRID, CUATRO VIENTOS",
+    "Indicativo": "3196",
+    "Provincia": "MADRID",
+    "Longitud": "03 47 10W",
+    "Latitud": "40 22 32N",
+    "x": "-3.786",
+    "y": "40.376"
+  },
+  {
+    "Nombre": "MADRID, RETIRO",
+    "Indicativo": "3195",
+    "Provincia": "MADRID",
+    "Longitud": "03 40 41W",
+    "Latitud": "40 24 43N",
+    "x": "-3.678",
+    "y": "40.412"
+  },
+  {
+    "Nombre": "PUERTO ALTO DEL LEÓN",
+    "Indicativo": "3266A",
+    "Provincia": "MADRID",
+    "Longitud": "04 08 31W",
+    "Latitud": "40 42 23N",
+    "x": "-4.142",
+    "y": "40.706"
+  },
+  {
+    "Nombre": "ROBLEDO DE CHAVELA",
+    "Indicativo": "3338",
+    "Provincia": "MADRID",
+    "Longitud": "04 15 00W",
+    "Latitud": "40 25 40N",
+    "x": "-4.250",
+    "y": "40.428"
+  },
+  {
+    "Nombre": "SOMOSIERRA",
+    "Indicativo": "3111D",
+    "Provincia": "MADRID",
+    "Longitud": "03 34 49W",
+    "Latitud": "41 08 08N",
+    "x": "-3.580",
+    "y": "41.136"
+  },
+  {
+    "Nombre": "TORREJÓN DE ARDOZ",
+    "Indicativo": "3175",
+    "Provincia": "MADRID",
+    "Longitud": "03 26 37W",
+    "Latitud": "40 29 19N",
+    "x": "-3.444",
+    "y": "40.489"
+  },
+  {
+    "Nombre": "SAN PABLO DE LOS MONTES",
+    "Indicativo": "3298X",
+    "Provincia": "TOLEDO",
+    "Longitud": "04 21 02W",
+    "Latitud": "39 32 49N",
+    "x": "-4.351",
+    "y": "39.547"
+  },
+  {
+    "Nombre": "TALAVERA DE LA REINA",
+    "Indicativo": "3365A",
+    "Provincia": "TOLEDO",
+    "Longitud": "04 51 49W",
+    "Latitud": "39 57 31N",
+    "x": "-4.864",
+    "y": "39.959"
+  },
+  {
+    "Nombre": "TOLEDO, LORENZANA",
+    "Indicativo": "3259",
+    "Provincia": "TOLEDO",
+    "Longitud": "04 01 32W",
+    "Latitud": "39 51 34N",
+    "x": "-4.026",
+    "y": "39.859"
+  },
+  {
+    "Nombre": "TOLEDO",
+    "Indicativo": "3260B",
+    "Provincia": "TOLEDO",
+    "Longitud": "04 02 43W",
+    "Latitud": "39 53 05N",
+    "x": "-4.045",
+    "y": "39.885"
+  },
+  {
+    "Nombre": "BADAJOZ AEROPUERTO",
+    "Indicativo": "4452",
+    "Provincia": "BADAJOZ",
+    "Longitud": "06 48 50W",
+    "Latitud": "38 53 00N",
+    "x": "-6.814",
+    "y": "38.883"
+  },
+  {
+    "Nombre": "DON BENITO",
+    "Indicativo": "4358X",
+    "Provincia": "BADAJOZ",
+    "Longitud": "05 52 50W",
+    "Latitud": "38 57 20N",
+    "x": "-5.881",
+    "y": "38.956"
+  },
+  {
+    "Nombre": "HERRERA DEL DUQUE",
+    "Indicativo": "4244X",
+    "Provincia": "BADAJOZ",
+    "Longitud": "05 03 44W",
+    "Latitud": "39 10 10N",
+    "x": "-5.062",
+    "y": "39.169"
+  },
+  {
+    "Nombre": "JEREZ DE LOS CABALLEROS",
+    "Indicativo": "4511C",
+    "Provincia": "BADAJOZ",
+    "Longitud": "06 45 54W",
+    "Latitud": "38 17 55N",
+    "x": "-6.765",
+    "y": "38.299"
+  },
+  {
+    "Nombre": "LLERENA",
+    "Indicativo": "4386B",
+    "Provincia": "BADAJOZ",
+    "Longitud": "06 01 01W",
+    "Latitud": "38 13 54N",
+    "x": "-6.017",
+    "y": "38.232"
+  },
+  {
+    "Nombre": "MÉRIDA",
+    "Indicativo": "4410X",
+    "Provincia": "BADAJOZ",
+    "Longitud": "06 23 08W",
+    "Latitud": "38 54 57N",
+    "x": "-6.386",
+    "y": "38.916"
+  },
+  {
+    "Nombre": "CIUDAD REAL, INSTITUTO",
+    "Indicativo": "4121C",
+    "Provincia": "CIUDAD REAL",
+    "Longitud": "03 55 45W",
+    "Latitud": "38 59 16N",
+    "x": "-3.929",
+    "y": "38.988"
+  },
+  {
+    "Nombre": "CIUDAD REAL",
+    "Indicativo": "4121",
+    "Provincia": "CIUDAD REAL",
+    "Longitud": "03 55 13W",
+    "Latitud": "38 59 21N",
+    "x": "-3.920",
+    "y": "38.989"
+  },
+  {
+    "Nombre": "PUEBLA DE DON RODRIGO",
+    "Indicativo": "4220X",
+    "Provincia": "CIUDAD REAL",
+    "Longitud": "04 37 19W",
+    "Latitud": "39 05 01N",
+    "x": "-4.622",
+    "y": "39.084"
+  },
+  {
+    "Nombre": "TOMELLOSO",
+    "Indicativo": "4103X",
+    "Provincia": "CIUDAD REAL",
+    "Longitud": "03 00 27W",
+    "Latitud": "39 10 09N",
+    "x": "-3.008",
+    "y": "39.169"
+  },
+  {
+    "Nombre": "VALDEPEÑAS",
+    "Indicativo": "4147X",
+    "Provincia": "CIUDAD REAL",
+    "Longitud": "03 23 29W",
+    "Latitud": "38 45 02N",
+    "x": "-3.391",
+    "y": "38.751"
+  },
+  {
+    "Nombre": "VISO DEL MARQUÉS",
+    "Indicativo": "4148",
+    "Provincia": "CIUDAD REAL",
+    "Longitud": "03 34 00W",
+    "Latitud": "38 31 05N",
+    "x": "-3.567",
+    "y": "38.518"
+  },
+  {
+    "Nombre": "HINOJOSA DEL DUQUE",
+    "Indicativo": "4267X",
+    "Provincia": "CORDOBA",
+    "Longitud": "05 07 16W",
+    "Latitud": "38 29 55N",
+    "x": "-5.121",
+    "y": "38.499"
+  },
+  {
+    "Nombre": "SAN CLEMENTE",
+    "Indicativo": "4090Y",
+    "Provincia": "CUENCA",
+    "Longitud": "02 25 14W",
+    "Latitud": "39 25 00N",
+    "x": "-2.421",
+    "y": "39.417"
+  },
+  {
+    "Nombre": "ALAJAR",
+    "Indicativo": "4560Y",
+    "Provincia": "HUELVA",
+    "Longitud": "06 40 30W",
+    "Latitud": "37 52 07N",
+    "x": "-6.675",
+    "y": "37.869"
+  },
+  {
+    "Nombre": "AYAMONTE",
+    "Indicativo": "4549Y",
+    "Provincia": "HUELVA",
+    "Longitud": "07 23 42W",
+    "Latitud": "37 11 41N",
+    "x": "-7.395",
+    "y": "37.195"
+  },
+  {
+    "Nombre": "HUELVA, RONDA ESTE",
+    "Indicativo": "4642E",
+    "Provincia": "HUELVA",
+    "Longitud": "06 54 42W",
+    "Latitud": "37 16 42N",
+    "x": "-6.912",
+    "y": "37.278"
+  },
+  {
+    "Nombre": "HUELVA",
+    "Indicativo": "4605",
+    "Provincia": "HUELVA",
+    "Longitud": "06 56 59W",
+    "Latitud": "37 15 24N",
+    "x": "-6.950",
+    "y": "37.257"
+  },
+  {
+    "Nombre": "MADRIDEJOS",
+    "Indicativo": "4067",
+    "Provincia": "TOLEDO",
+    "Longitud": "03 31 42W",
+    "Latitud": "39 29 31N",
+    "x": "-3.528",
+    "y": "39.492"
+  },
+  {
+    "Nombre": "QUINTANAR DE LA ORDEN",
+    "Indicativo": "4061X",
+    "Provincia": "TOLEDO",
+    "Longitud": "03 02 54W",
+    "Latitud": "39 35 50N",
+    "x": "-3.048",
+    "y": "39.597"
+  },
+  {
+    "Nombre": "CÁDIZ",
+    "Indicativo": "5973",
+    "Provincia": "CADIZ",
+    "Longitud": "06 15 28W",
+    "Latitud": "36 29 59N",
+    "x": "-6.258",
+    "y": "36.500"
+  },
+  {
+    "Nombre": "GRAZALEMA",
+    "Indicativo": "5911A",
+    "Provincia": "CADIZ",
+    "Longitud": "05 22 27W",
+    "Latitud": "36 45 38N",
+    "x": "-5.374",
+    "y": "36.761"
+  },
+  {
+    "Nombre": "JEREZ DE LA FRONTERA AEROPUERTO",
+    "Indicativo": "5960",
+    "Provincia": "CADIZ",
+    "Longitud": "06 03 21W",
+    "Latitud": "36 45 02N",
+    "x": "-6.056",
+    "y": "36.751"
+  },
+  {
+    "Nombre": "ROTA, BASE NAVAL",
+    "Indicativo": "5910",
+    "Provincia": "CADIZ",
+    "Longitud": "06 19 57W",
+    "Latitud": "36 38 20N",
+    "x": "-6.333",
+    "y": "36.639"
+  },
+  {
+    "Nombre": "SAN FERNANDO",
+    "Indicativo": "5972X",
+    "Provincia": "CADIZ",
+    "Longitud": "06 12 20W",
+    "Latitud": "36 27 56N",
+    "x": "-6.206",
+    "y": "36.466"
+  },
+  {
+    "Nombre": "VEJER DE LA FRONTERA",
+    "Indicativo": "5995B",
+    "Provincia": "CADIZ",
+    "Longitud": "05 57 54W",
+    "Latitud": "36 14 44N",
+    "x": "-5.965",
+    "y": "36.246"
+  },
+  {
+    "Nombre": "CEUTA, MONTE HACHO",
+    "Indicativo": "5000A",
+    "Provincia": "CEUTA",
+    "Longitud": "05 17 32W",
+    "Latitud": "35 53 44N",
+    "x": "-5.292",
+    "y": "35.896"
+  },
+  {
+    "Nombre": "CEUTA",
+    "Indicativo": "5000C",
+    "Provincia": "CEUTA",
+    "Longitud": "05 20 49W",
+    "Latitud": "35 53 19N",
+    "x": "-5.347",
+    "y": "35.889"
+  },
+  {
+    "Nombre": "CÓRDOBA AEROPUERTO",
+    "Indicativo": "5402",
+    "Provincia": "CORDOBA",
+    "Longitud": "04 50 48W",
+    "Latitud": "37 50 56N",
+    "x": "-4.847",
+    "y": "37.849"
+  },
+  {
+    "Nombre": "DOÑA MENCÍA",
+    "Indicativo": "5427X",
+    "Provincia": "CORDOBA",
+    "Longitud": "04 21 14W",
+    "Latitud": "37 33 22N",
+    "x": "-4.354",
+    "y": "37.556"
+  },
+  {
+    "Nombre": "VILLANUEVA DE CÓRDOBA",
+    "Indicativo": "5390Y",
+    "Provincia": "CORDOBA",
+    "Longitud": "04 36 32W",
+    "Latitud": "38 19 59N",
+    "x": "-4.609",
+    "y": "38.333"
+  },
+  {
+    "Nombre": "BAZA",
+    "Indicativo": "5047E",
+    "Provincia": "GRANADA",
+    "Longitud": "02 44 06W",
+    "Latitud": "37 30 21N",
+    "x": "-2.735",
+    "y": "37.506"
+  },
+  {
+    "Nombre": "GRANADA AEROPUERTO",
+    "Indicativo": "5530E",
+    "Provincia": "GRANADA",
+    "Longitud": "03 47 23W",
+    "Latitud": "37 11 25N",
+    "x": "-3.790",
+    "y": "37.190"
+  },
+  {
+    "Nombre": "GRANADA BASE AÉREA",
+    "Indicativo": "5514",
+    "Provincia": "GRANADA",
+    "Longitud": "03 37 53W",
+    "Latitud": "37 08 14N",
+    "x": "-3.631",
+    "y": "37.137"
+  },
+  {
+    "Nombre": "HUÉSCAR",
+    "Indicativo": "5051X",
+    "Provincia": "GRANADA",
+    "Longitud": "02 39 10W",
+    "Latitud": "37 51 40N",
+    "x": "-2.653",
+    "y": "37.861"
+  },
+  {
+    "Nombre": "LOJA",
+    "Indicativo": "5582A",
+    "Provincia": "GRANADA",
+    "Longitud": "04 09 10W",
+    "Latitud": "37 09 40N",
+    "x": "-4.153",
+    "y": "37.161"
+  },
+  {
+    "Nombre": "MOGUER, EL ARENOSILLO",
+    "Indicativo": "5860E",
+    "Provincia": "HUELVA",
+    "Longitud": "06 44 17W",
+    "Latitud": "37 05 53N",
+    "x": "-6.738",
+    "y": "37.098"
+  },
+  {
+    "Nombre": "ANDÚJAR",
+    "Indicativo": "5298X",
+    "Provincia": "JAEN",
+    "Longitud": "04 03 48W",
+    "Latitud": "38 01 23N",
+    "x": "-4.063",
+    "y": "38.023"
+  },
+  {
+    "Nombre": "ARROYO DEL OJANCO",
+    "Indicativo": "5181D",
+    "Provincia": "JAEN",
+    "Longitud": "02 53 23W",
+    "Latitud": "38 18 53N",
+    "x": "-2.890",
+    "y": "38.315"
+  },
+  {
+    "Nombre": "CAZORLA",
+    "Indicativo": "5038X",
+    "Provincia": "JAEN",
+    "Longitud": "03 00 14W",
+    "Latitud": "37 54 57N",
+    "x": "-3.004",
+    "y": "37.916"
+  },
+  {
+    "Nombre": "JAÉN, INSTITUTO",
+    "Indicativo": "5270",
+    "Provincia": "JAEN",
+    "Longitud": "03 47 20W",
+    "Latitud": "37 46 35N",
+    "x": "-3.789",
+    "y": "37.776"
+  },
+  {
+    "Nombre": "JAÉN",
+    "Indicativo": "5270B",
+    "Provincia": "JAEN",
+    "Longitud": "03 48 32W",
+    "Latitud": "37 46 39N",
+    "x": "-3.809",
+    "y": "37.778"
+  },
+  {
+    "Nombre": "SANTA ELENA",
+    "Indicativo": "5246",
+    "Provincia": "JAEN",
+    "Longitud": "03 32 07W",
+    "Latitud": "38 20 40N",
+    "x": "-3.535",
+    "y": "38.344"
+  },
+  {
+    "Nombre": "VILLARRODRIGO",
+    "Indicativo": "5192",
+    "Provincia": "JAEN",
+    "Longitud": "02 38 15W",
+    "Latitud": "38 29 21N",
+    "x": "-2.638",
+    "y": "38.489"
+  },
+  {
+    "Nombre": "CAZALLA DE LA SIERRA",
+    "Indicativo": "5704B",
+    "Provincia": "SEVILLA",
+    "Longitud": "05 46 11W",
+    "Latitud": "37 55 35N",
+    "x": "-5.770",
+    "y": "37.926"
+  },
+  {
+    "Nombre": "ÉCIJA",
+    "Indicativo": "5641X",
+    "Provincia": "SEVILLA",
+    "Longitud": "05 05 06W",
+    "Latitud": "37 30 58N",
+    "x": "-5.085",
+    "y": "37.516"
+  },
+  {
+    "Nombre": "LA RODA DE ANDALUCÍA",
+    "Indicativo": "5612B",
+    "Provincia": "SEVILLA",
+    "Longitud": "04 46 12W",
+    "Latitud": "37 11 40N",
+    "x": "-4.770",
+    "y": "37.194"
+  },
+  {
+    "Nombre": "MORÓN DE LA FRONTERA",
+    "Indicativo": "5796",
+    "Provincia": "SEVILLA",
+    "Longitud": "05 36 41W",
+    "Latitud": "37 09 52N",
+    "x": "-5.611",
+    "y": "37.164"
+  },
+  {
+    "Nombre": "SEVILLA AEROPUERTO",
+    "Indicativo": "5783",
+    "Provincia": "SEVILLA",
+    "Longitud": "05 52 45W",
+    "Latitud": "37 25 00N",
+    "x": "-5.879",
+    "y": "37.417"
+  },
+  {
+    "Nombre": "ABLA",
+    "Indicativo": "6302A",
+    "Provincia": "ALMERIA",
+    "Longitud": "02 46 48W",
+    "Latitud": "37 08 29N",
+    "x": "-2.780",
+    "y": "37.141"
+  },
+  {
+    "Nombre": "ADRA",
+    "Indicativo": "6277B",
+    "Provincia": "ALMERIA",
+    "Longitud": "03 01 14W",
+    "Latitud": "36 44 50N",
+    "x": "-3.021",
+    "y": "36.747"
+  },
+  {
+    "Nombre": "ALBORÁN",
+    "Indicativo": "6381",
+    "Provincia": "ALMERIA",
+    "Longitud": "03 02 10W",
+    "Latitud": "35 56 18N",
+    "x": "-3.036",
+    "y": "35.938"
+  },
+  {
+    "Nombre": "ALMERÍA AEROPUERTO",
+    "Indicativo": "6325O",
+    "Provincia": "ALMERIA",
+    "Longitud": "02 21 25W",
+    "Latitud": "36 50 47N",
+    "x": "-2.357",
+    "y": "36.846"
+  },
+  {
+    "Nombre": "ALMERÍA",
+    "Indicativo": "6297",
+    "Provincia": "ALMERIA",
+    "Longitud": "02 27 20W",
+    "Latitud": "36 49 52N",
+    "x": "-2.456",
+    "y": "36.831"
+  },
+  {
+    "Nombre": "CARBONERAS",
+    "Indicativo": "6332X",
+    "Provincia": "ALMERIA",
+    "Longitud": "01 54 13W",
+    "Latitud": "36 58 49N",
+    "x": "-1.904",
+    "y": "36.980"
+  },
+  {
+    "Nombre": "HUÉRCAL-OVERA",
+    "Indicativo": "6367B",
+    "Provincia": "ALMERIA",
+    "Longitud": "01 56 37W",
+    "Latitud": "37 23 26N",
+    "x": "-1.944",
+    "y": "37.391"
+  },
+  {
+    "Nombre": "ROQUETAS DE MAR",
+    "Indicativo": "6293X",
+    "Provincia": "ALMERIA",
+    "Longitud": "02 42 06W",
+    "Latitud": "36 41 13N",
+    "x": "-2.702",
+    "y": "36.687"
+  },
+  {
+    "Nombre": "TARIFA",
+    "Indicativo": "6001",
+    "Provincia": "CADIZ",
+    "Longitud": "05 35 56W",
+    "Latitud": "36 00 50N",
+    "x": "-5.599",
+    "y": "36.014"
+  },
+  {
+    "Nombre": "MOTRIL",
+    "Indicativo": "6268X",
+    "Provincia": "GRANADA",
+    "Longitud": "03 31 49W",
+    "Latitud": "36 43 22N",
+    "x": "-3.530",
+    "y": "36.723"
+  },
+  {
+    "Nombre": "ANTEQUERA",
+    "Indicativo": "6106X",
+    "Provincia": "MALAGA",
+    "Longitud": "04 44 54W",
+    "Latitud": "37 01 46N",
+    "x": "-4.748",
+    "y": "37.029"
+  },
+  {
+    "Nombre": "ESTEPONA",
+    "Indicativo": "6058I",
+    "Provincia": "MALAGA",
+    "Longitud": "05 09 18W",
+    "Latitud": "36 25 01N",
+    "x": "-5.155",
+    "y": "36.417"
+  },
+  {
+    "Nombre": "FUENGIROLA",
+    "Indicativo": "6084X",
+    "Provincia": "MALAGA",
+    "Longitud": "04 37 06W",
+    "Latitud": "36 32 19N",
+    "x": "-4.618",
+    "y": "36.539"
+  },
+  {
+    "Nombre": "MÁLAGA AEROPUERTO",
+    "Indicativo": "6155A",
+    "Provincia": "MALAGA",
+    "Longitud": "04 28 56W",
+    "Latitud": "36 39 58N",
+    "x": "-4.482",
+    "y": "36.666"
+  },
+  {
+    "Nombre": "MÁLAGA, CENTRO METEOROLÓGICO",
+    "Indicativo": "6156X",
+    "Provincia": "MALAGA",
+    "Longitud": "04 28 54W",
+    "Latitud": "36 43 04N",
+    "x": "-4.482",
+    "y": "36.718"
+  },
+  {
+    "Nombre": "MÁLAGA, PUERTO",
+    "Indicativo": "6172O",
+    "Provincia": "MALAGA",
+    "Longitud": "04 25 11W",
+    "Latitud": "36 43 00N",
+    "x": "-4.420",
+    "y": "36.717"
+  },
+  {
+    "Nombre": "RONDA",
+    "Indicativo": "6032B",
+    "Provincia": "MALAGA",
+    "Longitud": "05 10 06W",
+    "Latitud": "36 44 59N",
+    "x": "-5.168",
+    "y": "36.750"
+  },
+  {
+    "Nombre": "TORROX",
+    "Indicativo": "6205X",
+    "Provincia": "MALAGA",
+    "Longitud": "03 57 26W",
+    "Latitud": "36 43 35N",
+    "x": "-3.957",
+    "y": "36.726"
+  },
+  {
+    "Nombre": "MELILLA",
+    "Indicativo": "6000A",
+    "Provincia": "MELILLA",
+    "Longitud": "02 57 23W",
+    "Latitud": "35 16 35N",
+    "x": "-2.956",
+    "y": "35.276"
+  },
+  {
+    "Nombre": "HELLÍN",
+    "Indicativo": "7096B",
+    "Provincia": "ALBACETE",
+    "Longitud": "01 42 11W",
+    "Latitud": "38 32 31N",
+    "x": "-1.703",
+    "y": "38.542"
+  },
+  {
+    "Nombre": "EL PINÓS/PINOSO",
+    "Indicativo": "7247X",
+    "Provincia": "ALICANTE",
+    "Longitud": "01 02 17W",
+    "Latitud": "38 23 59N",
+    "x": "-1.038",
+    "y": "38.400"
+  },
+  {
+    "Nombre": "ÁGUILAS",
+    "Indicativo": "7002Y",
+    "Provincia": "MURCIA",
+    "Longitud": "01 35 13W",
+    "Latitud": "37 25 02N",
+    "x": "-1.587",
+    "y": "37.417"
+  },
+  {
+    "Nombre": "ALCANTARILLA, BASE AÉREA",
+    "Indicativo": "7228",
+    "Provincia": "MURCIA",
+    "Longitud": "01 13 43W",
+    "Latitud": "37 57 28N",
+    "x": "-1.229",
+    "y": "37.958"
+  },
+  {
+    "Nombre": "CARAVACA DE LA CRUZ",
+    "Indicativo": "7119B",
+    "Provincia": "MURCIA",
+    "Longitud": "01 52 38W",
+    "Latitud": "38 06 09N",
+    "x": "-1.877",
+    "y": "38.103"
+  },
+  {
+    "Nombre": "CARTAGENA",
+    "Indicativo": "7012C",
+    "Provincia": "MURCIA",
+    "Longitud": "00 59 16W",
+    "Latitud": "37 36 04N",
+    "x": "-0.988",
+    "y": "37.601"
+  },
+  {
+    "Nombre": "CIEZA",
+    "Indicativo": "7145D",
+    "Provincia": "MURCIA",
+    "Longitud": "01 22 50W",
+    "Latitud": "38 13 58N",
+    "x": "-1.381",
+    "y": "38.233"
+  },
+  {
+    "Nombre": "LORCA",
+    "Indicativo": "7209",
+    "Provincia": "MURCIA",
+    "Longitud": "01 41 14W",
+    "Latitud": "37 39 17N",
+    "x": "-1.687",
+    "y": "37.655"
+  },
+  {
+    "Nombre": "MURCIA",
+    "Indicativo": "7178I",
+    "Provincia": "MURCIA",
+    "Longitud": "01 10 15W",
+    "Latitud": "38 00 07N",
+    "x": "-1.171",
+    "y": "38.002"
+  },
+  {
+    "Nombre": "SAN JAVIER AEROPUERTO",
+    "Indicativo": "7031",
+    "Provincia": "MURCIA",
+    "Longitud": "00 48 12W",
+    "Latitud": "37 47 20N",
+    "x": "-0.803",
+    "y": "37.789"
+  },
+  {
+    "Nombre": "SAN JAVIER AEROPUERTO",
+    "Indicativo": "7031X",
+    "Provincia": "MURCIA",
+    "Longitud": "00 48 21W",
+    "Latitud": "37 46 42N",
+    "x": "-0.806",
+    "y": "37.778"
+  },
+  {
+    "Nombre": "YECLA",
+    "Indicativo": "7275C",
+    "Provincia": "MURCIA",
+    "Longitud": "01 09 35W",
+    "Latitud": "38 36 06N",
+    "x": "-1.160",
+    "y": "38.602"
+  },
+  {
+    "Nombre": "ALBACETE BASE AÉREA",
+    "Indicativo": "8175",
+    "Provincia": "ALBACETE",
+    "Longitud": "01 51 23W",
+    "Latitud": "38 57 15N",
+    "x": "-1.856",
+    "y": "38.954"
+  },
+  {
+    "Nombre": "ALBACETE",
+    "Indicativo": "8178D",
+    "Provincia": "ALBACETE",
+    "Longitud": "01 51 46W",
+    "Latitud": "39 00 21N",
+    "x": "-1.863",
+    "y": "39.006"
+  },
+  {
+    "Nombre": "CHINCHILLA",
+    "Indicativo": "8177A",
+    "Provincia": "ALBACETE",
+    "Longitud": "01 39 36W",
+    "Latitud": "38 56 09N",
+    "x": "-1.660",
+    "y": "38.936"
+  },
+  {
+    "Nombre": "ALACANT/ALICANTE",
+    "Indicativo": "8025",
+    "Provincia": "ALICANTE",
+    "Longitud": "00 29 39W",
+    "Latitud": "38 22 21N",
+    "x": "-0.494",
+    "y": "38.373"
+  },
+  {
+    "Nombre": "ALICANTE-ELCHE AEROPUERTO",
+    "Indicativo": "8019",
+    "Provincia": "ALICANTE",
+    "Longitud": "00 34 15W",
+    "Latitud": "38 16 58N",
+    "x": "-0.571",
+    "y": "38.283"
+  },
+  {
+    "Nombre": "JÁVEA/ XÀBIA",
+    "Indicativo": "8050X",
+    "Provincia": "ALICANTE",
+    "Longitud": "00 10 04E",
+    "Latitud": "38 47 01N",
+    "x": "0.168",
+    "y": "38.784"
+  },
+  {
+    "Nombre": "CASTELLÓ - ALMASSORA",
+    "Indicativo": "8500A",
+    "Provincia": "CASTELLON",
+    "Longitud": "00 04 19W",
+    "Latitud": "39 57 26N",
+    "x": "-0.072",
+    "y": "39.957"
+  },
+  {
+    "Nombre": "CASTELLÓ DE LA PLANA",
+    "Indicativo": "8501",
+    "Provincia": "CASTELLON",
+    "Longitud": "00 01 56W",
+    "Latitud": "39 59 21N",
+    "x": "-0.032",
+    "y": "39.989"
+  },
+  {
+    "Nombre": "VILLAFRANCA DEL CID/VILLAFRANCA",
+    "Indicativo": "8489X",
+    "Provincia": "CASTELLON",
+    "Longitud": "00 15 21W",
+    "Latitud": "40 26 00N",
+    "x": "-0.256",
+    "y": "40.433"
+  },
+  {
+    "Nombre": "VINARÒS",
+    "Indicativo": "8523X",
+    "Provincia": "CASTELLON",
+    "Longitud": "00 25 47E",
+    "Latitud": "40 33 15N",
+    "x": "0.430",
+    "y": "40.554"
+  },
+  {
+    "Nombre": "CUENCA",
+    "Indicativo": "8096",
+    "Provincia": "CUENCA",
+    "Longitud": "02 07 55W",
+    "Latitud": "40 04 02N",
+    "x": "-2.132",
+    "y": "40.067"
+  },
+  {
+    "Nombre": "TERUEL",
+    "Indicativo": "8368U",
+    "Provincia": "TERUEL",
+    "Longitud": "01 07 27W",
+    "Latitud": "40 21 02N",
+    "x": "-1.124",
+    "y": "40.351"
+  },
+  {
+    "Nombre": "OLIVA",
+    "Indicativo": "8058X",
+    "Provincia": "VALENCIA",
+    "Longitud": "00 05 45W",
+    "Latitud": "38 55 44N",
+    "x": "-0.096",
+    "y": "38.929"
+  },
+  {
+    "Nombre": "POLINYÀ DE XÚQUER",
+    "Indicativo": "8325X",
+    "Provincia": "VALENCIA",
+    "Longitud": "00 22 19W",
+    "Latitud": "39 11 05N",
+    "x": "-0.372",
+    "y": "39.185"
+  },
+  {
+    "Nombre": "UTIEL",
+    "Indicativo": "8309X",
+    "Provincia": "VALENCIA",
+    "Longitud": "01 14 41W",
+    "Latitud": "39 34 32N",
+    "x": "-1.245",
+    "y": "39.576"
+  },
+  {
+    "Nombre": "VALENCIA AEROPUERTO",
+    "Indicativo": "8414A",
+    "Provincia": "VALENCIA",
+    "Longitud": "00 28 29W",
+    "Latitud": "39 29 06N",
+    "x": "-0.475",
+    "y": "39.485"
+  },
+  {
+    "Nombre": "VALÈNCIA, VIVEROS",
+    "Indicativo": "8416Y",
+    "Provincia": "VALENCIA",
+    "Longitud": "00 21 59W",
+    "Latitud": "39 28 50N",
+    "x": "-0.366",
+    "y": "39.481"
+  },
+  {
+    "Nombre": "VALÈNCIA",
+    "Indicativo": "8416",
+    "Provincia": "VALENCIA",
+    "Longitud": "00 21 59W",
+    "Latitud": "39 28 50N",
+    "x": "-0.366",
+    "y": "39.481"
+  },
+  {
+    "Nombre": "XÀTIVA",
+    "Indicativo": "8293X",
+    "Provincia": "VALENCIA",
+    "Longitud": "00 31 25W",
+    "Latitud": "39 00 06N",
+    "x": "-0.524",
+    "y": "39.002"
+  },
+  {
+    "Nombre": "FORONDA-TXOKIZA",
+    "Indicativo": "9091O",
+    "Provincia": "ARABA/ALAVA",
+    "Longitud": "02 44 06W",
+    "Latitud": "42 52 55N",
+    "x": "-2.735",
+    "y": "42.882"
+  },
+  {
+    "Nombre": "VITORIA AERÓDROMO",
+    "Indicativo": "9087",
+    "Provincia": "ARABA/ALAVA",
+    "Longitud": "02 39 22W",
+    "Latitud": "42 50 59N",
+    "x": "-2.656",
+    "y": "42.850"
+  },
+  {
+    "Nombre": "VITORIA GASTEIZ AEROPUERTO",
+    "Indicativo": "9091R",
+    "Provincia": "ARABA/ALAVA",
+    "Longitud": "02 43 58W",
+    "Latitud": "42 52 19N",
+    "x": "-2.733",
+    "y": "42.872"
+  },
+  {
+    "Nombre": "BELORADO",
+    "Indicativo": "9111",
+    "Provincia": "BURGOS",
+    "Longitud": "03 10 13W",
+    "Latitud": "42 25 16N",
+    "x": "-3.170",
+    "y": "42.421"
+  },
+  {
+    "Nombre": "MEDINA DE POMAR",
+    "Indicativo": "9051",
+    "Provincia": "BURGOS",
+    "Longitud": "03 28 58W",
+    "Latitud": "42 55 12N",
+    "x": "-3.483",
+    "y": "42.920"
+  },
+  {
+    "Nombre": "REINOSA",
+    "Indicativo": "9001D",
+    "Provincia": "CANTABRIA",
+    "Longitud": "04 09 38W",
+    "Latitud": "42 59 31N",
+    "x": "-4.161",
+    "y": "42.992"
+  },
+  {
+    "Nombre": "VALDERREDIBLE, POLIENTES",
+    "Indicativo": "9019B",
+    "Provincia": "CANTABRIA",
+    "Longitud": "03 56 02W",
+    "Latitud": "42 48 23N",
+    "x": "-3.934",
+    "y": "42.806"
+  },
+  {
+    "Nombre": "CASTELLFORT",
+    "Indicativo": "9563X",
+    "Provincia": "CASTELLON",
+    "Longitud": "00 11 12W",
+    "Latitud": "40 29 55N",
+    "x": "-0.187",
+    "y": "40.499"
+  },
+  {
+    "Nombre": "LA MOLINA",
+    "Indicativo": "9585",
+    "Provincia": "GIRONA",
+    "Longitud": "01 56 22E",
+    "Latitud": "42 19 57N",
+    "x": "1.939",
+    "y": "42.333"
+  },
+  {
+    "Nombre": "ARAGÜÉS DEL PUERTO",
+    "Indicativo": "9208E",
+    "Provincia": "HUESCA",
+    "Longitud": "00 40 23W",
+    "Latitud": "42 42 32N",
+    "x": "-0.673",
+    "y": "42.709"
+  },
+  {
+    "Nombre": "BIELSA",
+    "Indicativo": "9784P",
+    "Provincia": "HUESCA",
+    "Longitud": "00 13 29E",
+    "Latitud": "42 37 48N",
+    "x": "0.225",
+    "y": "42.630"
+  },
+  {
+    "Nombre": "HUESCA, AEROPUERTO",
+    "Indicativo": "9898",
+    "Provincia": "HUESCA",
+    "Longitud": "00 19 32W",
+    "Latitud": "42 05 04N",
+    "x": "-0.326",
+    "y": "42.084"
+  },
+  {
+    "Nombre": "JACA",
+    "Indicativo": "9201K",
+    "Provincia": "HUESCA",
+    "Longitud": "00 32 49W",
+    "Latitud": "42 34 44N",
+    "x": "-0.547",
+    "y": "42.579"
+  },
+  {
+    "Nombre": "TORLA",
+    "Indicativo": "9814A",
+    "Provincia": "HUESCA",
+    "Longitud": "00 06 42W",
+    "Latitud": "42 37 36N",
+    "x": "-0.112",
+    "y": "42.627"
+  },
+  {
+    "Nombre": "LOGROÑO, AEROPUERTO",
+    "Indicativo": "9170",
+    "Provincia": "LA RIOJA",
+    "Longitud": "02 19 52W",
+    "Latitud": "42 27 08N",
+    "x": "-2.331",
+    "y": "42.452"
+  },
+  {
+    "Nombre": "LA SEU D'URGELL",
+    "Indicativo": "9619",
+    "Provincia": "LLEIDA",
+    "Longitud": "01 27 47E",
+    "Latitud": "42 21 17N",
+    "x": "1.463",
+    "y": "42.355"
+  },
+  {
+    "Nombre": "LLEIDA, OBSERVATORIO",
+    "Indicativo": "9771",
+    "Provincia": "LLEIDA",
+    "Longitud": "00 37 16E",
+    "Latitud": "41 37 02N",
+    "x": "0.621",
+    "y": "41.617"
+  },
+  {
+    "Nombre": "LLEIDA",
+    "Indicativo": "9771C",
+    "Provincia": "LLEIDA",
+    "Longitud": "00 35 53E",
+    "Latitud": "41 37 34N",
+    "x": "0.598",
+    "y": "41.626"
+  },
+  {
+    "Nombre": "NAUT ARAN, ARTIES",
+    "Indicativo": "9990X",
+    "Provincia": "LLEIDA",
+    "Longitud": "00 52 37E",
+    "Latitud": "42 42 01N",
+    "x": "0.877",
+    "y": "42.700"
+  },
+  {
+    "Nombre": "TALARN",
+    "Indicativo": "9698U",
+    "Provincia": "LLEIDA",
+    "Longitud": "00 51 55E",
+    "Latitud": "42 12 19N",
+    "x": "0.865",
+    "y": "42.205"
+  },
+  {
+    "Nombre": "TÀRREGA",
+    "Indicativo": "9720X",
+    "Provincia": "LLEIDA",
+    "Longitud": "01 08 58E",
+    "Latitud": "41 39 02N",
+    "x": "1.149",
+    "y": "41.651"
+  },
+  {
+    "Nombre": "ARANGUREN, ILUNDAIN",
+    "Indicativo": "9263X",
+    "Provincia": "NAVARRA",
+    "Longitud": "01 31 57W",
+    "Latitud": "42 46 34N",
+    "x": "-1.533",
+    "y": "42.776"
+  },
+  {
+    "Nombre": "BARDENAS REALES, BASE AÉREA",
+    "Indicativo": "9294E",
+    "Provincia": "NAVARRA",
+    "Longitud": "01 28 31W",
+    "Latitud": "42 11 55N",
+    "x": "-1.475",
+    "y": "42.199"
+  },
+  {
+    "Nombre": "CADREITA",
+    "Indicativo": "9283X",
+    "Provincia": "NAVARRA",
+    "Longitud": "01 42 41W",
+    "Latitud": "42 12 25N",
+    "x": "-1.711",
+    "y": "42.207"
+  },
+  {
+    "Nombre": "PAMPLONA, AEROPUERTO",
+    "Indicativo": "9263D",
+    "Provincia": "NAVARRA",
+    "Longitud": "01 39 00W",
+    "Latitud": "42 46 37N",
+    "x": "-1.650",
+    "y": "42.777"
+  },
+  {
+    "Nombre": "PAMPLONA",
+    "Indicativo": "9262",
+    "Provincia": "NAVARRA",
+    "Longitud": "01 38 18W",
+    "Latitud": "42 49 04N",
+    "x": "-1.638",
+    "y": "42.818"
+  },
+  {
+    "Nombre": "ESTACIÓN DE TORTOSA (ROQUETES)",
+    "Indicativo": "9981A",
+    "Provincia": "TARRAGONA",
+    "Longitud": "00 29 36E",
+    "Latitud": "40 49 13N",
+    "x": "0.493",
+    "y": "40.820"
+  },
+  {
+    "Nombre": "SANT JAUME D'ENVEJA",
+    "Indicativo": "9987P",
+    "Provincia": "TARRAGONA",
+    "Longitud": "00 48 36E",
+    "Latitud": "40 41 57N",
+    "x": "0.810",
+    "y": "40.699"
+  },
+  {
+    "Nombre": "ALCAÑIZ",
+    "Indicativo": "9573X",
+    "Provincia": "TERUEL",
+    "Longitud": "00 08 30W",
+    "Latitud": "41 03 29N",
+    "x": "-0.142",
+    "y": "41.058"
+  },
+  {
+    "Nombre": "CALAMOCHA, AERÓDROMO",
+    "Indicativo": "9381",
+    "Provincia": "TERUEL",
+    "Longitud": "01 18 18W",
+    "Latitud": "40 51 54N",
+    "x": "-1.305",
+    "y": "40.865"
+  },
+  {
+    "Nombre": "CALAMOCHA",
+    "Indicativo": "9381I",
+    "Provincia": "TERUEL",
+    "Longitud": "01 17 36W",
+    "Latitud": "40 55 34N",
+    "x": "-1.293",
+    "y": "40.926"
+  },
+  {
+    "Nombre": "CALANDA",
+    "Indicativo": "9569A",
+    "Provincia": "TERUEL",
+    "Longitud": "00 14 16W",
+    "Latitud": "40 56 48N",
+    "x": "-0.238",
+    "y": "40.947"
+  },
+  {
+    "Nombre": "BUJARALOZ",
+    "Indicativo": "9576C",
+    "Provincia": "ZARAGOZA",
+    "Longitud": "00 10 28W",
+    "Latitud": "41 31 21N",
+    "x": "-0.174",
+    "y": "41.523"
+  },
+  {
+    "Nombre": "CALATAYUD",
+    "Indicativo": "9394X",
+    "Provincia": "ZARAGOZA",
+    "Longitud": "01 38 43W",
+    "Latitud": "41 19 52N",
+    "x": "-1.645",
+    "y": "41.331"
+  },
+  {
+    "Nombre": "DAROCA",
+    "Indicativo": "9390",
+    "Provincia": "ZARAGOZA",
+    "Longitud": "01 24 36W",
+    "Latitud": "41 06 52N",
+    "x": "-1.410",
+    "y": "41.114"
+  },
+  {
+    "Nombre": "SOS DEL REY CATÓLICO",
+    "Indicativo": "9244X",
+    "Provincia": "ZARAGOZA",
+    "Longitud": "01 12 49W",
+    "Latitud": "42 29 27N",
+    "x": "-1.214",
+    "y": "42.491"
+  },
+  {
+    "Nombre": "ZARAGOZA, AEROPUERTO",
+    "Indicativo": "9434",
+    "Provincia": "ZARAGOZA",
+    "Longitud": "01 00 15W",
+    "Latitud": "41 39 38N",
+    "x": "-1.004",
+    "y": "41.661"
+  },
+  {
+    "Nombre": "ZARAGOZA, VALDESPARTERA",
+    "Indicativo": "9434P",
+    "Provincia": "ZARAGOZA",
+    "Longitud": "00 56 06W",
+    "Latitud": "41 37 15N",
+    "x": "-0.935",
+    "y": "41.621"
+  },
+  {
+    "Nombre": "CAPDEPERA",
+    "Indicativo": "B569X",
+    "Provincia": "ILLES BALEARS",
+    "Longitud": "03 28 41E",
+    "Latitud": "39 43 00N",
+    "x": "3.478",
+    "y": "39.717"
+  },
+  {
+    "Nombre": "ESCORCA, LLUC",
+    "Indicativo": "B013X",
+    "Provincia": "ILLES BALEARS",
+    "Longitud": "02 53 09E",
+    "Latitud": "39 49 24N",
+    "x": "2.886",
+    "y": "39.823"
+  },
+  {
+    "Nombre": "IBIZA, AEROPUERTO",
+    "Indicativo": "B954",
+    "Provincia": "ILLES BALEARS",
+    "Longitud": "01 23 04E",
+    "Latitud": "38 52 35N",
+    "x": "1.384",
+    "y": "38.876"
+  },
+  {
+    "Nombre": "MENORCA, AEROPUERTO",
+    "Indicativo": "B893",
+    "Provincia": "ILLES BALEARS",
+    "Longitud": "04 12 56E",
+    "Latitud": "39 51 17N",
+    "x": "4.216",
+    "y": "39.855"
+  },
+  {
+    "Nombre": "PALMA DE MALLORCA, AEROPUERTO",
+    "Indicativo": "B278",
+    "Provincia": "ILLES BALEARS",
+    "Longitud": "02 44 12E",
+    "Latitud": "39 33 39N",
+    "x": "2.737",
+    "y": "39.561"
+  },
+  {
+    "Nombre": "PALMA, PUERTO",
+    "Indicativo": "B228",
+    "Provincia": "ILLES BALEARS",
+    "Longitud": "02 37 31E",
+    "Latitud": "39 33 19N",
+    "x": "2.625",
+    "y": "39.555"
+  },
+  {
+    "Nombre": "PORRERES",
+    "Indicativo": "B346X",
+    "Provincia": "ILLES BALEARS",
+    "Longitud": "03 01 09E",
+    "Latitud": "39 31 18N",
+    "x": "3.019",
+    "y": "39.522"
+  },
+  {
+    "Nombre": "PORTOCOLOM",
+    "Indicativo": "B434X",
+    "Provincia": "ILLES BALEARS",
+    "Longitud": "03 16 18E",
+    "Latitud": "39 24 52N",
+    "x": "3.272",
+    "y": "39.414"
+  },
+  {
+    "Nombre": "SA POBLA",
+    "Indicativo": "B691Y",
+    "Provincia": "ILLES BALEARS",
+    "Longitud": "03 01 00E",
+    "Latitud": "39 44 57N",
+    "x": "3.017",
+    "y": "39.749"
+  },
+  {
+    "Nombre": "SIERRA DE ALFABIA, BUNYOLA",
+    "Indicativo": "B248",
+    "Provincia": "ILLES BALEARS",
+    "Longitud": "02 42 47E",
+    "Latitud": "39 44 06N",
+    "x": "2.713",
+    "y": "39.735"
+  },
+  {
+    "Nombre": "FUERTEVENTURA AEROPUERTO",
+    "Indicativo": "C249I",
+    "Provincia": "LAS PALMAS",
+    "Longitud": "13 51 47W",
+    "Latitud": "28 26 41N",
+    "x": "-13.863",
+    "y": "28.445"
+  },
+  {
+    "Nombre": "GRAN CANARIA AEROPUERTO",
+    "Indicativo": "C649I",
+    "Provincia": "LAS PALMAS",
+    "Longitud": "15 23 43W",
+    "Latitud": "27 55 04N",
+    "x": "-15.395",
+    "y": "27.918"
+  },
+  {
+    "Nombre": "LA ALDEA DE SAN NICOLÁS",
+    "Indicativo": "C619I",
+    "Provincia": "LAS PALMAS",
+    "Longitud": "15 48 50W",
+    "Latitud": "28 00 03N",
+    "x": "-15.814",
+    "y": "28.001"
+  },
+  {
+    "Nombre": "LANZAROTE AEROPUERTO",
+    "Indicativo": "C029O",
+    "Provincia": "LAS PALMAS",
+    "Longitud": "13 36 01W",
+    "Latitud": "28 57 07N",
+    "x": "-13.600",
+    "y": "28.952"
+  },
+  {
+    "Nombre": "LAS PALMAS DE GRAN CANARIA, PL. DE LA FERIA",
+    "Indicativo": "C659M",
+    "Provincia": "LAS PALMAS",
+    "Longitud": "15 25 17W",
+    "Latitud": "28 06 47N",
+    "x": "-15.421",
+    "y": "28.113"
+  },
+  {
+    "Nombre": "LAS PALMAS DE GRAN CANARIA, SAN CRISTOBAL",
+    "Indicativo": "C659H",
+    "Provincia": "LAS PALMAS",
+    "Longitud": "15 24 58W",
+    "Latitud": "28 05 23N",
+    "x": "-15.416",
+    "y": "28.090"
+  },
+  {
+    "Nombre": "MASPALOMAS",
+    "Indicativo": "C689E",
+    "Provincia": "LAS PALMAS",
+    "Longitud": "15 35 45W",
+    "Latitud": "27 44 09N",
+    "x": "-15.596",
+    "y": "27.736"
+  },
+  {
+    "Nombre": "MOGÁN, PUERTO",
+    "Indicativo": "C629X",
+    "Provincia": "LAS PALMAS",
+    "Longitud": "15 45 51W",
+    "Latitud": "27 48 59N",
+    "x": "-15.764",
+    "y": "27.816"
+  },
+  {
+    "Nombre": "PÁJARA",
+    "Indicativo": "C229J",
+    "Provincia": "LAS PALMAS",
+    "Longitud": "14 21 29W",
+    "Latitud": "28 02 57N",
+    "x": "-14.358",
+    "y": "28.049"
+  },
+  {
+    "Nombre": "TEGUISE",
+    "Indicativo": "C839I",
+    "Provincia": "LAS PALMAS",
+    "Longitud": "13 30 07W",
+    "Latitud": "29 13 55N",
+    "x": "-13.502",
+    "y": "29.232"
+  },
+  {
+    "Nombre": "GÜÍMAR",
+    "Indicativo": "C439J",
+    "Provincia": "STA. CRUZ DE TENERIFE",
+    "Longitud": "16 22 56W",
+    "Latitud": "28 19 06N",
+    "x": "-16.382",
+    "y": "28.318"
+  },
+  {
+    "Nombre": "HIERRO AEROPUERTO",
+    "Indicativo": "C929I",
+    "Provincia": "STA. CRUZ DE TENERIFE",
+    "Longitud": "17 53 20W",
+    "Latitud": "27 49 08N",
+    "x": "-17.889",
+    "y": "27.819"
+  },
+  {
+    "Nombre": "IZAÑA",
+    "Indicativo": "C430E",
+    "Provincia": "STA. CRUZ DE TENERIFE",
+    "Longitud": "16 29 58W",
+    "Latitud": "28 18 32N",
+    "x": "-16.499",
+    "y": "28.309"
+  },
+  {
+    "Nombre": "LA PALMA AEROPUERTO",
+    "Indicativo": "C139E",
+    "Provincia": "STA. CRUZ DE TENERIFE",
+    "Longitud": "17 45 18W",
+    "Latitud": "28 37 59N",
+    "x": "-17.755",
+    "y": "28.633"
+  },
+  {
+    "Nombre": "PUERTO DE LA CRUZ",
+    "Indicativo": "C459Z",
+    "Provincia": "STA. CRUZ DE TENERIFE",
+    "Longitud": "16 32 53W",
+    "Latitud": "28 25 05N",
+    "x": "-16.548",
+    "y": "28.418"
+  },
+  {
+    "Nombre": "SAN SEBASTIÁN DE LA GOMERA",
+    "Indicativo": "C329Z",
+    "Provincia": "STA. CRUZ DE TENERIFE",
+    "Longitud": "17 06 41W",
+    "Latitud": "28 05 23N",
+    "x": "-17.111",
+    "y": "28.090"
+  },
+  {
+    "Nombre": "STA.CRUZ DE TENERIFE",
+    "Indicativo": "C449C",
+    "Provincia": "STA. CRUZ DE TENERIFE",
+    "Longitud": "16 15 19W",
+    "Latitud": "28 27 48N",
+    "x": "-16.255",
+    "y": "28.463"
+  },
+  {
+    "Nombre": "TAZACORTE",
+    "Indicativo": "C129Z",
+    "Provincia": "STA. CRUZ DE TENERIFE",
+    "Longitud": "17 54 55W",
+    "Latitud": "28 35 45N",
+    "x": "-17.915",
+    "y": "28.596"
+  },
+  {
+    "Nombre": "TENERIFE NORTE AEROPUERTO",
+    "Indicativo": "C447A",
+    "Provincia": "STA. CRUZ DE TENERIFE",
+    "Longitud": "16 19 46W",
+    "Latitud": "28 28 39N",
+    "x": "-16.329",
+    "y": "28.478"
+  },
+  {
+    "Nombre": "TENERIFE SUR AEROPUERTO",
+    "Indicativo": "C429I",
+    "Provincia": "STA. CRUZ DE TENERIFE",
+    "Longitud": "16 33 40W",
+    "Latitud": "28 02 49N",
+    "x": "-16.561",
+    "y": "28.047"
+  }
+]

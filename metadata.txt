@@ -1,0 +1,46 @@
+# This file contains metadata for your plugin.
+
+# This file should be included when you package your plugin.# Mandatory items:
+
+[general]
+name=AemetOpenDataDownloader
+qgisMinimumVersion=3.0
+description=This Plugin download open data from aemet
+version=0.1
+author=Florentino Mostaza
+email=https://github.com/Parpaya
+
+about= <p>Plugin para la descarga por provincias de los datos meteorologicos de las ultimas 24h, diarios, mensuales y normales en qgis de los Open Data de AEMET.</p><p>AEMET OpenData es un API REST (Application Programming Interface. REpresentational State Transfer) a través del cual se pueden descargar gratuitamente los datos explicitados en el Anexo II de la resolución de 30 de diciembre de 2015 de AEMET, por la que se establecen los precios públicos que han de regir la prestación de servicios meteorológicos y climatológicos. Esta resolución ha sido publicada en el BOE nº 4 de 5 de enero de 2016. <a href='https://opendata.aemet.es/centrodedescargas/inicio'>https://opendata.aemet.es/centrodedescargas/inicio</a></p><p>Para poder acceder a AEMET OpenData, es necesario solicitar una API Key. Una API Key es un identificador, mediante el cual se contabilizan e imputan los accesos que un usuario realiza al API.</p><p><a href='https://opendata.aemet.es/centrodedescargas/altaUsuario?'>https://opendata.aemet.es/centrodedescargas/altaUsuario?</a></p>
+tracker=https://github.com/Parpaya/Aemet_OpenData_Downloader
+repository=https://github.com/Parpaya/Aemet_OpenData_Downloader
+# End of mandatory metadata
+
+# Recommended items:
+
+hasProcessingProvider=no
+# Uncomment the following line and add your changelog:
+# changelog= 25.04.2023 V1.0: Primera versión
+
+# Tags are comma separated with spaces allowed
+tags=python
+
+homepage=https://github.com/Parpaya/Aemet_OpenData_Downloader
+category=Plugins
+icon=icon.png
+# experimental flag
+experimental=False
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+
+# Since QGIS 3.8, a comma separated list of plugins to be installed
+# (or upgraded) can be specified.
+# Check the documentation for more information.
+# plugin_dependencies=
+
+Category of the plugin: Raster, Vector, Database or Web
+# category=Vector
+
+# If the plugin can run on QGIS Server.
+server=False
+
