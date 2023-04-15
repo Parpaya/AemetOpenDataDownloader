@@ -19,13 +19,13 @@ Obtén tu clave de API en la siguiente URL: (<a href='https://opendata.aemet.es/
 
 El complemento puede descargarse con el archivo zip desde este repositorio y <b>descomprimirlo en la carpeta de plugins de QGIS</b> según el sistema operativo. O instalarse directamente en Qgis con el archivo zip.
 
-<img src="help/instalar_zip.PNG" width="60%">
+<img src="help/instalar_zip.PNG" width="50%">
 
 ## Uso
 
 Tras su instalación el plugin puede ser ejecutado desde la barra de herramientas o bien desde el menú <b>Complementos>AemetOpenDataDownloader</b>
 
-<img src="help/Consola_Plugin.png" width="60%">
+<img src="help/Consola_Plugin.png" width="40%">
 
 Una vez ejecutado el complemento se debe <b>obligatoriamente</b>:
 <ul>
@@ -58,7 +58,7 @@ El PDF con la descripción completa del servicio puede consultarse en el siguien
 
 Ejemplo de uso del Plugin:
 
-<img src="help/Consola_ejemplo.png" width="60%">
+<img src="help/Consola_ejemplo.png" width="40%">
 
 <img src="help/Escritorio_Qgis.png" width="60%">
 
