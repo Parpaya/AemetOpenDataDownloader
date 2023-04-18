@@ -11,8 +11,8 @@ author=Florentino Mostaza
 email=https://github.com/Parpaya
 
 about= <p>Plugin para la descarga por provincias de los datos meteorologicos de las ultimas 24h, diarios, mensuales y normales en qgis de los Open Data de AEMET.</p><p>AEMET OpenData es un API REST (Application Programming Interface. REpresentational State Transfer) a través del cual se pueden descargar gratuitamente los datos explicitados en el Anexo II de la resolución de 30 de diciembre de 2015 de AEMET, por la que se establecen los precios públicos que han de regir la prestación de servicios meteorológicos y climatológicos. Esta resolución ha sido publicada en el BOE nº 4 de 5 de enero de 2016. <a href='https://opendata.aemet.es/centrodedescargas/inicio'>https://opendata.aemet.es/centrodedescargas/inicio</a></p><p>Para poder acceder a AEMET OpenData, es necesario solicitar una API Key. Una API Key es un identificador, mediante el cual se contabilizan e imputan los accesos que un usuario realiza al API.</p><p><a href='https://opendata.aemet.es/centrodedescargas/altaUsuario?'>https://opendata.aemet.es/centrodedescargas/altaUsuario?</a></p>
-tracker=https://github.com/Parpaya/Aemet_OpenData_Downloader
-repository=https://github.com/Parpaya/Aemet_OpenData_Downloader
+tracker=https://github.com/Parpaya/AemetOpenDataDownloader
+repository=https://github.com/Parpaya/AemetOpenDataDownloader
 # End of mandatory metadata
 
 # Recommended items:
