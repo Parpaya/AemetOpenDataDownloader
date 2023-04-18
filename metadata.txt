@@ -24,7 +24,7 @@ hasProcessingProvider=no
 # Tags are comma separated with spaces allowed
 tags=python
 
-homepage=https://github.com/Parpaya/Aemet_OpenData_Downloader
+homepage=https://github.com/Parpaya/AemetOpenDataDownloader
 category=Plugins
 icon=icon.png
 # experimental flag
